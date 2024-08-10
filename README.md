@@ -1,9 +1,11 @@
 Pada projek kali ini saya membuat web portofolio sederhana yang berisikan identitas diri saya. Pembuatan projek ini dimaksudkan untuk memenuhi tugas career path software engineering
 Teknologi yang saya gunakan kali ini adalah html dan css
+
 Ada beberapa cara untuk menjalankan program:
-Double-click pada file index.html untuk membukanya di browser default.
-Drag and Drop file index.html ke jendela browser.
-Open File dari menu browser dan navigasikan ke lokasi file index.html.
+1. Double-click pada file index.html untuk membukanya di browser default.
+2. Drag and Drop file index.html ke jendela browser.
+3. Open File dari menu browser dan navigasikan ke lokasi file index.html.
+4. 
 Bonus yang dikerjakan:
 1. Deployment (tidak mengerjakan)
 2. Tampilan yang responsif (tidak mengerjakan)
