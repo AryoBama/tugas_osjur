@@ -13,6 +13,9 @@ Bonus yang dikerjakan:
 4. Kreativitas (parsial)
    
 Awalnya saya ingin menggunakan framework next.js. Akan tetapi, next.js terlalu rumit untuk saya seorang pemula dan waktu yang ada terbatas sehingga saya tidak mampu untuk belajar next.js dalam waktu sesingkat itu.
+
 Nama: Aryo Bama Wiratama
+
 NIM TPB: 19623007
+
 Jurusan-kampus: IF-ganesha
